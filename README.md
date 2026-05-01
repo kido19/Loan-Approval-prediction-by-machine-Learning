@@ -14,7 +14,6 @@ A premium, high-performance Machine Learning web application designed to predict
 - **Backend:** Python, Flask
 - **Machine Learning:** XGBoost, Scikit-learn, Pandas, Numpy, SMOTE (for class balancing)
 - **Frontend:** Vanilla HTML5, CSS3 (Custom Glassmorphism), JavaScript
-- **Deployment:** Ready for local or cloud hosting
 
 ## 📂 Project Structure
 - `app.py`: Main Flask server and business logic.
@@ -56,4 +55,3 @@ The model was trained on the `loan_approval_dataset` and optimized using **GridS
 - **Validation:** Evaluated using F1-Score to ensure a balance between Precision and Recall.
 
 ---
-Built with ❤️ by [Kido19](https://github.com/kido19)
