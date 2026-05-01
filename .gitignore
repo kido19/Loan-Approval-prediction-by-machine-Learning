@@ -1,0 +1,22 @@
+# Virtual Environment
+.venv/
+venv/
+ENV/
+env/
+
+# Python cache
+__pycache__/
+*.py[cod]
+*$py.class
+
+# Models and Data (optional, but keep best_pipeline.pkl for the app to work)
+# *.pkl
+# *.csv
+
+# Plots
+roc_curve.png
+eda_plots/
+
+# OS files
+.DS_Store
+Thumbs.db
