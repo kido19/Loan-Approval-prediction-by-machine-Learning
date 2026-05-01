@@ -2,7 +2,6 @@
 
 A premium, high-performance Machine Learning web application designed to predict the likelihood of loan approval based on financial data. Built with **Flask** and **XGBoost**, featuring a modern glassmorphism interface.
 
-![Luxury Interface](static/bg.png)
 
 ## 🚀 Features
 - **Machine Learning Powered:** Uses state-of-the-art XGBoost algorithm for high accuracy.
